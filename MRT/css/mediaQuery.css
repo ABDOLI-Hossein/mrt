@@ -1,0 +1,241 @@
+@media only screen and (max-width: 1000px) {
+    .mw100-m{
+        max-width: 100%!important;
+    }
+    .mw50-m{
+        max-width: 60%!important;
+    }
+    .w100-m{
+        width: 100%;
+    }
+    .align-flexend{
+        align-items: flex-end;
+    }
+    .css-typing{
+        bottom: unset;
+        padding: 0;
+    }
+    .hero h1, h2 {
+        font-size: 30px;
+        line-height: 46px;
+        font-family: dana-regular, serif;
+    }
+    .flex-dir-column-reverse{
+        flex-direction: column-reverse;
+    }
+    .flex-dir-column{
+        flex-direction: column;
+    }
+
+    .eftekharat ul li {
+        font-size: 17px;
+        margin: 25px 0;
+    }
+    .sideSection {
+        height: 60px;
+        flex-direction: row-reverse;
+        width: 100%;
+    }
+
+    .sideSection .sep {
+        width: 10%;
+        transform: unset;
+    }
+    .sideLine{
+        display: none;
+    }
+    .sideSection .nameside {
+        font-size: 30px;
+        transform: unset;
+    }
+    .sideSection .numberside {
+        font-size: 40px;
+    }
+    .d-block{
+        display: block;
+    }
+    .darbare p {
+        font-size: 15px;
+        padding: 0 30px;
+    }
+    .darbare .levels-wrapper:after {
+        transform: rotate(
+                90deg
+        );
+        top: 50%;
+        width: 120%;
+    }
+    .darbare .levels-wrapper {
+        height: 600px;
+        left: -122px;
+    }
+    .downex1:after {
+        top: -13px;
+        left: 100px;
+    }
+    .upex1:after {
+        bottom: -10px;
+        left: 100px;
+    }
+    .universities ul{
+        padding: 0;
+        list-style: none;
+    }
+/*    .universities ul li {
+        margin: 40px 0;
+    }*/
+
+    .lang{
+        display: none;
+    }
+    header h1 {
+        font-size: 15px;
+        line-height: 17px;
+
+    }
+    .hero h6 {
+        margin-bottom: 0;
+    }
+    .eftekharat img{
+        max-width: 40%;
+    }
+    .m-h-100{
+        height: 100%;
+    }
+    .stroke-text {
+        -webkit-text-stroke-color: #fff;
+    }
+    .heroIntro {
+        right: 30px;
+    }
+    header{
+        width: 100%!important;
+        background-color: #02001E;
+        z-index: 11;
+    }
+    .justify-evenly{
+        justify-content: space-evenly!important;
+    }
+    section {
+        top: 160px;
+    }
+    .eftekharat .eftekharatWrap ul {
+        padding: 0 40px;
+    }
+    .eftekharat .eftekharatWrap li:after {
+        right: 20px;
+    }
+    .eftekharat img:first-child{
+        left: 0!important;
+        max-width: 60%;
+    }
+    .eftekharat img:nth-child(2){
+        right: 0!important;
+        max-width: 30%;
+    }
+
+    .eftekharat img:nth-child(4){
+        bottom: 0!important;
+    }
+
+    .eftekharat img:nth-child(3){
+        bottom: 0!important;
+        max-width: 50%;
+    }
+    .zendegiNameLeft{
+        padding: 0 30px;
+    }
+    .zendegiNameLeft img{
+        max-width: 100%;
+    }
+    .universities ul li {
+        margin-right: 45px;
+    }
+    #sec3,#sec7{
+        height: unset!important;
+    }
+    #sec3 img{
+        position: unset!important;
+    }
+    #sec5{
+        height: unset!important;
+    }
+    #sec5 img{
+        position: unset!important;
+    }
+    .booksSlider img{
+        max-width: 60%;
+        margin: 0 auto;
+    }
+    .books .owl-nav {
+        position: absolute;
+        right: 0;
+        bottom: 45%;
+        left: 0;
+        width: 95%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .books .books-right {
+        align-items: center;
+    }
+    .books .books-right h4 {
+        font-family: 'dana-thin', serif;
+    }
+    .booksHeightM{
+        height: 380px;
+    }
+    .books-right-title3{
+        margin-top: 0;
+    }
+    .hamkaran .item{
+        padding: 20px;
+    }
+    .d-noneM{
+        display: none;
+    }
+    .d-flexM{
+        display: flex;
+    }
+    .hamkaran .item h4{
+        margin-bottom: 130px;
+    }
+    .hamkaranTopM{
+        position: absolute;
+        top: 60px;
+    }
+    .hamkaran .owl-nav{
+        position: absolute;
+        top: 115px;
+        right: 15px;
+        width: fit-content;
+    }
+    #tamasbama-right p{
+        padding: 25px;
+    }
+    .tamasBaMaInfo li{
+        margin-right: 25px;
+    }
+    .gallary{
+        margin-top: 55px;
+    }
+
+    .gallary .gallaryText {
+        padding: 17px 20px 50px;
+    }
+    .gallary .gallaryVideo {
+        height: 265px;
+        width: 90%;
+        top: 255px;
+    }
+    .gallaryImg img{
+        max-width: 100%;
+    }
+    .gallaryImg{
+        margin-top: 150px!important;
+    }
+
+
+    }
